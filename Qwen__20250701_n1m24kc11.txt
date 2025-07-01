@@ -1,0 +1,11 @@
+everythingamazon/
+│
+├── public/
+│   └── index.html
+│
+├── src/
+│   └── App.jsx        ← This is where all your website code goes
+│
+├── package.json       ← Tells Vercel how to build your site
+├── README.md          ← Optional (description of your project)
+└── .gitignore         ← Optional (files to ignore when uploading)
